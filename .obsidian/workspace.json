@@ -11,14 +11,15 @@
             "id": "8785df86f2cb8671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "APIs.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "APIs"
+              "icon": "diff",
+              "title": "Diff: data.json  (Index)"
             }
           }
         ]
@@ -201,8 +202,8 @@
   },
   "active": "8785df86f2cb8671",
   "lastOpenFiles": [
-    "DeepLearning.md",
     "APIs.md",
+    "DeepLearning.md",
     "Tech Materials/Wiki pages.md",
     "conflict-files-obsidian-git.md"
   ]
