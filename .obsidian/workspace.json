@@ -11,14 +11,14 @@
             "id": "8785df86f2cb8671",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "APIs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "APIs"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeepLearning.md",
+                "file": "APIs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "8ffc1b090c0ef15f",
+            "id": "c16ada24fd723dbf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8785df86f2cb8671",
+  "active": "204ba9cb98cd7231",
   "lastOpenFiles": [
     "APIs.md",
     "DeepLearning.md",
