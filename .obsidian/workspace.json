@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
+                "bFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
                 "aRef": ""
               },
-              "icon": "lucide-ghost",
-              "title": "split-diff-view"
+              "icon": "diff",
+              "title": "Diff: obsidian_askpass.sh  (Working Tree)"
             }
           }
         ]
@@ -171,13 +171,13 @@
             }
           },
           {
-            "id": "8ffc1b090c0ef15f",
+            "id": "bf3f853f76495807",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -195,7 +195,8 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8785df86f2cb8671",
