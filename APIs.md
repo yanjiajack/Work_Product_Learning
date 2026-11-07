@@ -10,3 +10,7 @@ https://gateway.webai.avaya.com/v1
 	- Other clients  
 https://gateway.webai.avaya.com  
 - 1year  
+
+## APIKey20261108:
+
+sk-wTgWbarmxmLtebkpSg7dyQ
