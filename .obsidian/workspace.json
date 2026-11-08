@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a39165899c4ce690",
+        "id": "e96d17facd2e414b",
         "type": "tabs",
         "children": [
           {
-            "id": "8785df86f2cb8671",
+            "id": "185b8537c686cfe5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-<<<<<<< HEAD
-                "aFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
-                "bFile": ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
-                "aRef": ""
+                "aFile": "APIs.md",
+                "bFile": "APIs.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: obsidian_askpass.sh  (Working Tree)"
-=======
-                "file": "APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APIs"
->>>>>>> Work_Product_Learning/master
+              "title": "Diff: APIs  (Index)"
             }
           }
         ]
@@ -180,11 +172,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "bf3f853f76495807",
-=======
-            "id": "c16ada24fd723dbf",
->>>>>>> Work_Product_Learning/master
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -212,9 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204ba9cb98cd7231",
+  "active": "185b8537c686cfe5",
   "lastOpenFiles": [
+    "J2EE/J2EE basic.md",
+    "J2EE/J2EE Yijun's github page.md",
     "APIs.md",
+    "J2EE",
     "DeepLearning.md",
     "Tech Materials/Wiki pages.md",
     "conflict-files-obsidian-git.md"
