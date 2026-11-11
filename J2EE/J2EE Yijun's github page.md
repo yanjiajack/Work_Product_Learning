@@ -1,6 +1,6 @@
 [https://github.com/yijun-l/jee/blob/main/doc/1-2%20Application%20Server.md](https://github.com/yijun-l/jee/blob/main/doc/1-2%20Application%20Server.md)
 
-##20261105
+## 20261105
 
 Hi Qingbo,
 
@@ -18,7 +18,7 @@ Expected Roadmap: Servlet -  JSP/JSF - Spring Core - EJB - CDI/JNDI/JPA - Spring
 Topic example: https://github.com/yijun-l/jee/blob/main/doc/1-2%20Application%20Server.md
 
 
-##20261110
+## 20261110
 
 Hi Team,
 
