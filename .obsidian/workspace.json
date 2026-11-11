@@ -11,15 +11,14 @@
             "id": "185b8537c686cfe5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "APIs.md",
-                "bFile": "APIs.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "J2EE/J2EE Yijun's github page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: APIs  (Index)"
+              "icon": "lucide-file",
+              "title": "J2EE Yijun's github page"
             }
           }
         ]
@@ -203,11 +202,11 @@
   "active": "185b8537c686cfe5",
   "lastOpenFiles": [
     "J2EE/J2EE basic.md",
+    "Tech Materials/Wiki pages.md",
     "J2EE/J2EE Yijun's github page.md",
     "APIs.md",
     "J2EE",
     "DeepLearning.md",
-    "Tech Materials/Wiki pages.md",
     "conflict-files-obsidian-git.md"
   ]
 }
